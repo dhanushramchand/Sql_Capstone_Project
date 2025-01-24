@@ -56,7 +56,7 @@ The next tier salary is 350,000.0, offered by companies such as:
 
 The below chart is provide insights of Top10 paying data analyst jobs.
 
-![Top paying jobs offering companies](charts\query1_chart.png)
+![Top paying jobs offering companies](charts/query1_chart.png)
 
 
 # 2.Skills required for these high paying jobs
@@ -93,7 +93,7 @@ The most frequently listed skills for Data Analyst roles in this dataset are eve
 - GCP (Google Cloud Platform)
 
 
-![Skills for High paying jobs](charts\query2_chart.png)
+![Skills for High paying jobs](charts/query2_chart.png)
 # 3.High Demand in Skills
 ```sql
 Select skills_dim.skills,
@@ -111,7 +111,7 @@ limit 5;
 - Python is crucial for advanced analytics, automation, and programming.
 - Tableau and Power BI are vital tools for visualization and business intelligence.
 
-![High Demand in Skills](charts\query3_chart.png)
+![High Demand in Skills](charts/query3_chart.png)
 
 # 4.High paying skills
 ```sql
@@ -148,7 +148,7 @@ Programming Languages:
 
 GoLang, Scala, and Perl showcase demand for specific languages in specialized roles.
 
-![High Paying Skills](charts\query4_chart.png)
+![High Paying Skills](charts/query4_chart.png)
 
 # 5.Optimal Skills(High paying and demand in skills)
 
@@ -175,11 +175,11 @@ Specialized skills like Perl, Kafka, and PyTorch command higher salaries despite
 
 **Top10 companies based on high salary**
 
-![These are the Optimal Skills based on high salary](charts\query5_chart(1).png)
+![These are the Optimal Skills based on high salary](charts/query5_chart(1).png)
 
 **Top10 companies based on high demand**
 
-![These are the Optimal Skills based on high salary](charts\query5_chart(2).png)
+![These are the Optimal Skills based on high salary](charts/query5_chart(2).png)
 # What I learned
 
 Throughout this adventure, I've turbocharged my SQL toolkit with some serious firepower:
